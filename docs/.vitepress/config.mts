@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "算法学习",
   description: "记录算法学习的点滴",
+  base: '/algorithm',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 

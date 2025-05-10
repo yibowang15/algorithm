@@ -26,6 +26,7 @@ export default defineConfig({
           { text: '1004. 最大连续1的个数 III', link: '/sliding-window/1004.md' },
           { text: '1493. 删掉一个元素以后全为 1 的最长子数组', link: '/sliding-window/1493.md' },
           { text: '567. 字符串的排列', link: '/sliding-window/567.md' },
+          { text: '1343. 大小为 K 且平均值大于等于阈值的子数组数目', link: '/sliding-window/1343.md' },
         ]
       },
 

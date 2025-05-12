@@ -22,6 +22,7 @@ export default defineConfig({
         items: [
           { text: '什么是滑动窗口？', link: '/sliding-window/index.md' },
           { text: '3.无重复字符的最长子串', link: '/sliding-window/3.md' },
+          { text: '209.长度最小的子数组', link: '/sliding-window/209.md' },
           { text: '567.字符串的排列', link: '/sliding-window/567.md' },
           { text: '643.子数组最大平均数', link: '/sliding-window/643.md' },
           { text: '1004.最大连续1的个数 III', link: '/sliding-window/1004.md' },

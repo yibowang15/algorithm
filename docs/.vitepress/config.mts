@@ -34,6 +34,14 @@ export default defineConfig({
           { text: '3090.每个字符最多出现两次的最长子字符串', link: '/sliding-window/3090.md' },
         ]
       },
+      {
+        text: '前缀和',
+        collapsed: false,
+        items: [
+          { text: '什么是前缀和？', link: '/prefix-sum/index.md' },
+          { text: '930.和相同的二元子数组', link: '/prefix-sum/930.md' },
+        ]
+      },
 
     ],
 

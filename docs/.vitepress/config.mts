@@ -39,6 +39,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '什么是前缀和？', link: '/prefix-sum/index.md' },
+          { text: '303.区域和检索 - 数组不可变', link: '/prefix-sum/303.md' },
           { text: '930.和相同的二元子数组', link: '/prefix-sum/930.md' },
         ]
       },

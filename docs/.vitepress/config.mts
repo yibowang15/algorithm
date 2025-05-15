@@ -18,7 +18,7 @@ export default defineConfig({
       },
       {
         text: '滑动窗口',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: '什么是滑动窗口？', link: '/sliding-window/index.md' },
           { text: '3.无重复字符的最长子串', link: '/sliding-window/3.md' },
@@ -41,6 +41,7 @@ export default defineConfig({
           { text: '什么是前缀和？', link: '/prefix-sum/index.md' },
           { text: '303.区域和检索 - 数组不可变', link: '/prefix-sum/303.md' },
           { text: '930.和相同的二元子数组', link: '/prefix-sum/930.md' },
+          { text: '2559.统计范围内的元音字符串数', link: '/prefix-sum/2559.md' },
         ]
       },
 

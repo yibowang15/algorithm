@@ -45,6 +45,14 @@ export default defineConfig({
           { text: '2559.统计范围内的元音字符串数', link: '/prefix-sum/2559.md' },
         ]
       },
+      {
+        text: '二分搜索',
+        collapsed: false,
+        items: [
+          { text: '什么是二分搜索？', link: '/binary-search/index.md' },
+          { text: '34', link: '/binary-search/34.md' },
+        ]
+      },
 
     ],
 

@@ -51,6 +51,7 @@ export default defineConfig({
         items: [
           { text: '什么是二分搜索？', link: '/binary-search/index.md' },
           { text: '34.在排序数组中查找元素的第一个和最后一个位置', link: '/binary-search/34.md' },
+          { text: '704.二分查找', link: '/binary-search/704.md' },
         ]
       },
 

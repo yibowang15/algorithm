@@ -55,7 +55,16 @@ export default defineConfig({
           { text: '875.爱吃香蕉的珂珂', link: '/binary-search/875.md' },
         ]
       },
-
+      {
+        text: '链表',
+        collapsed: false,
+        items: [
+          { text: '什么是链表？', link: '/linked-list/index.md' },
+          { text: '203.移除链表元素', link: '/linked-list/203.md' },
+          { text: '328.奇偶链表', link: '/linked-list/328.md' },
+          { text: '1290.二进制链表转整数', link: '/linked-list/1290.md' },
+        ]
+      },
     ],
 
     socialLinks: [

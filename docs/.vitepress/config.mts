@@ -66,6 +66,13 @@ export default defineConfig({
           { text: '1290.二进制链表转整数', link: '/linked-list/1290.md' },
         ]
       },
+      {
+        text: '二叉树',
+        collapsed: false,
+        items: [
+          { text: '什么是二叉树？', link: '/binary-tree/index.md' },
+        ]
+      },
     ],
 
     socialLinks: [

@@ -6,10 +6,10 @@ export default defineConfig({
   description: "记录算法学习的点滴",
   base: '/algorithm',
   lastUpdated: true,
-  
+
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['link', { rel: 'icon', href: '/system-design/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/algorithm/favicon.ico' }],
   ],
 
   themeConfig: {

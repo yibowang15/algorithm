@@ -83,6 +83,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '什么是二叉树？', link: '/binary-tree/index.md' },
+          { text: '144.二叉树的前序遍历', link: '/binary-tree/144.md' },
         ]
       },
     ],

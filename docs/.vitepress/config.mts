@@ -85,8 +85,9 @@ export default defineConfig({
           { text: '什么是二叉树？', link: '/binary-tree/index.md' },
           { text: '94.二叉树的中序遍历', link: '/binary-tree/94.md' },
           { text: '102.二叉树的层序遍历', link: '/binary-tree/102.md' },
-          { text: '112. 路径总和', link: '/binary-tree/112.md' },
-          { text: '113. 路径总和 II', link: '/binary-tree/113.md' },
+          { text: '104.二叉树的最大深度', link: '/binary-tree/104.md' },
+          { text: '112.路径总和', link: '/binary-tree/112.md' },
+          { text: '113.路径总和 II', link: '/binary-tree/113.md' },
           { text: '144.二叉树的前序遍历', link: '/binary-tree/144.md' },
           { text: '145.二叉树的后序遍历', link: '/binary-tree/145.md' },
         ]

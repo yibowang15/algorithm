@@ -99,6 +99,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '什么是回溯？', link: '/backtrack/index.md' },
+          { text: '17.电话号码的字母组合', link: '/backtrack/17.md' },
         ]
       },
     ],

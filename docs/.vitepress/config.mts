@@ -48,7 +48,7 @@ export default defineConfig({
       },
       {
         text: '前缀和',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: '什么是前缀和？', link: '/prefix-sum/index.md' },
           { text: '303.区域和检索 - 数组不可变', link: '/prefix-sum/303.md' },
@@ -59,7 +59,7 @@ export default defineConfig({
       },
       {
         text: '二分搜索',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: '什么是二分搜索？', link: '/binary-search/index.md' },
           { text: '34.在排序数组中查找元素的第一个和最后一个位置', link: '/binary-search/34.md' },
@@ -69,7 +69,7 @@ export default defineConfig({
       },
       {
         text: '链表',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: '什么是链表？', link: '/linked-list/index.md' },
           { text: '203.移除链表元素', link: '/linked-list/203.md' },
@@ -80,7 +80,7 @@ export default defineConfig({
       },
       {
         text: '二叉树',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: '什么是二叉树？', link: '/binary-tree/index.md' },
           { text: '94.二叉树的中序遍历', link: '/binary-tree/94.md' },
@@ -96,7 +96,7 @@ export default defineConfig({
       },
       {
         text: '回溯',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: '什么是回溯？', link: '/backtrack/index.md' },
           { text: '17.电话号码的字母组合', link: '/backtrack/17.md' },

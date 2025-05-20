@@ -94,6 +94,13 @@ export default defineConfig({
           { text: '257.二叉树的所有路径', link: '/binary-tree/257.md' },
         ]
       },
+      {
+        text: '回溯',
+        collapsed: false,
+        items: [
+          { text: '什么是回溯？', link: '/backtrack/index.md' },
+        ]
+      },
     ],
 
     socialLinks: [

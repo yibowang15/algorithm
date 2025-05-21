@@ -8,7 +8,7 @@
 
 我们可以根据任务目标和选择方式，把回溯分为以下几大类：
 
-### 1. 入门模板回溯（Brute-force Backtracking）
+## 1. 入门模板回溯（Brute-force Backtracking）
 
 **特点：**
 
@@ -29,7 +29,7 @@
 
 * [Leetcode 17 – 电话号码的字母组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
 
-### 2. 子集型回溯（Subset Enumeration）
+## 2. 子集型回溯（Subset Enumeration）
 
 **特点：**
 
@@ -54,7 +54,7 @@
 * [Leetcode 78 – Subsets](https://leetcode.com/problems/subsets)
 * [Leetcode 90 – Subsets II（含重复元素）](https://leetcode.com/problems/subsets-ii)
 
-### 3. 划分型回溯（Partitioning）
+## 3. 划分型回溯（Partitioning）
 
 **特点：**
 
@@ -80,7 +80,7 @@
 * [Leetcode 131 – 分割回文串](https://leetcode.com/problems/palindrome-partitioning)
 * [Leetcode 93 – 复原 IP 地址](https://leetcode.com/problems/restore-ip-addresses)
 
-### 4. 组合型回溯（Combination Enumeration）
+## 4. 组合型回溯（Combination Enumeration）
 
 **特点：**
 
@@ -106,7 +106,7 @@
 * [Leetcode 39 – 组合总和 I](https://leetcode.com/problems/combination-sum)
 * [Leetcode 216 – 组合总和 III](https://leetcode.com/problems/combination-sum-iii)
 
-### 5. 排列型回溯（Permutation）
+## 5. 排列型回溯（Permutation）
 
 **特点：**
 
@@ -132,7 +132,7 @@
 * [Leetcode 46 – 全排列](https://leetcode.com/problems/permutations)
 * [Leetcode 47 – 含重复元素的全排列](https://leetcode.com/problems/permutations-ii)
 
-### 6. 搜索型回溯（DFS搜索）
+## 6. 搜索型回溯（DFS搜索）
 
 **特点：**
 
@@ -159,7 +159,7 @@
 * [Leetcode 79 – 单词搜索](https://leetcode.com/problems/word-search)
 * [Leetcode 51 – N 皇后问题](https://leetcode.com/problems/n-queens)
 
-### 7. 有重复元素的回溯（Deduplicated Backtracking）
+## 7. 有重复元素的回溯（Deduplicated Backtracking）
 
 **特点：**
 
@@ -192,7 +192,7 @@ if i > start and nums[i] == nums[i - 1]:
 * [Leetcode 40 – 组合总和 II](https://leetcode.com/problems/combination-sum-ii)
 * [Leetcode 90 – 子集 II](https://leetcode.com/problems/subsets-ii)
 
-### 8. 折半枚举（Meet-in-the-Middle）
+## 8. 折半枚举（Meet-in-the-Middle）
 
 **特点：**
 

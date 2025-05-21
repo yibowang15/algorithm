@@ -4,7 +4,7 @@
 
 我们可以将它想象成“家庭族谱图”或“组织架构图”：每个人最多有两个孩子，分别坐左边或右边。
 
-### 1.遍历二叉树（Traversal）
+## 1.遍历二叉树（Traversal）
 
 **特点：**
 
@@ -28,7 +28,7 @@
 * [Leetcode 145 – Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/)
 * [Leetcode 102 – Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
 
-### 2.自顶向下 DFS（Top-down DFS）
+## 2.自顶向下 DFS（Top-down DFS）
 
 **特点：**
 
@@ -47,7 +47,7 @@
 * [Leetcode 112 – Path Sum](https://leetcode.cn/problems/path-sum/)
 * [Leetcode 113 – Path Sum II](https://leetcode.cn/problems/path-sum-ii/)
 
-### 3.自底向上 DFS（Bottom-up DFS）
+## 3.自底向上 DFS（Bottom-up DFS）
 
 **特点：**
 
@@ -66,7 +66,7 @@
 * [Leetcode 104 – Maximum Depth](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
 * [Leetcode 110 – Balanced Binary Tree](https://leetcode.cn/problems/balanced-binary-tree/)
 
-### 4.自底向上 DFS：删点（Pruning）
+## 4.自底向上 DFS：删点（Pruning）
 
 **特点：**
 
@@ -84,7 +84,7 @@
 
 * [Leetcode 814 – Binary Tree Pruning](https://leetcode.cn/problems/binary-tree-pruning/)
 
-### 5.有递有归（递归返回值）
+## 5.有递有归（递归返回值）
 
 **特点：**
 
@@ -102,7 +102,7 @@
 
 * [Leetcode 687 – Longest Univalue Path](https://leetcode.cn/problems/longest-univalue-path/)
 
-### 6.二叉树直径（Diameter）
+## 6.二叉树直径（Diameter）
 
 **特点：**
 
@@ -120,7 +120,7 @@
 
 * [Leetcode 543 – Diameter of Binary Tree](https://leetcode.cn/problems/diameter-of-binary-tree/)
 
-### 7.回溯（Backtracking in Tree）
+## 7.回溯（Backtracking in Tree）
 
 **特点：**
 
@@ -138,7 +138,7 @@
 
 * [Leetcode 257 – Binary Tree Paths](https://leetcode.cn/problems/binary-tree-paths/)
 
-### 8.最近公共祖先（LCA）
+## 8.最近公共祖先（LCA）
 
 **特点：**
 
@@ -157,7 +157,7 @@
 * [Leetcode 236 – LCA of Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)
 * [Leetcode 235 – LCA of BST](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
-### 9.二叉搜索树（BST）
+## 9.二叉搜索树（BST）
 
 **特点：**
 
@@ -177,7 +177,7 @@
 * [Leetcode 701 – Insert into BST](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)
 * [Leetcode 450 – Delete Node in BST](https://leetcode.cn/problems/delete-node-in-a-binary-search-tree/)
 
-### 10.创建二叉树（Construct Tree）
+## 10.创建二叉树（Construct Tree）
 
 **特点：**
 
@@ -196,7 +196,7 @@
 * [Leetcode 105 – Build Tree from Preorder + Inorder](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 * [Leetcode 106 – Build Tree from Inorder + Postorder](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 
-### 11.插入/删除节点（BST 操作）
+## 11.插入/删除节点（BST 操作）
 
 **特点：**
 
@@ -215,7 +215,7 @@
 * [Leetcode 701 – Insert into BST](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)
 * [Leetcode 450 – Delete Node in BST](https://leetcode.cn/problems/delete-node-in-a-binary-search-tree/)
 
-### 12.树形 DP
+## 12.树形 DP
 
 **特点：**
 
@@ -234,7 +234,7 @@
 * [Leetcode 337 – House Robber III](https://leetcode.cn/problems/house-robber-iii/)
 * [Leetcode 124 – Binary Tree Maximum Path Sum](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)
 
-### 13.二叉树 BFS（层序遍历）
+## 13.二叉树 BFS（层序遍历）
 
 **特点：**
 
@@ -253,7 +253,7 @@
 * [Leetcode 102 – Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
 * [Leetcode 111 – Minimum Depth](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
 
-### 14.链表 + 二叉树
+## 14.链表 + 二叉树
 
 **特点：**
 
@@ -272,7 +272,7 @@
 * [Leetcode 109 – Convert Sorted List to BST](https://leetcode.cn/problems/convert-sorted-list-to-binary-search-tree/)
 * [Leetcode 1367 – Linked List in Binary Tree](https://leetcode.cn/problems/linked-list-in-binary-tree/)
 
-### 15.N 叉树
+## 15.N 叉树
 
 **特点：**
 
@@ -291,7 +291,7 @@
 * [Leetcode 589 – N-ary Tree Preorder Traversal](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/)
 * [Leetcode 590 – N-ary Tree Postorder Traversal](https://leetcode.cn/problems/n-ary-tree-postorder-traversal/)
 
-### 16.其他
+## 16.其他
 
 **特点：**
 

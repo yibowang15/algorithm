@@ -4,7 +4,7 @@
 
 滑动窗口可以分为以下三种常见类型，根据窗口是否固定和滑动规则不同：
 
-### 1. 固定长度滑动窗口（Fixed-size Sliding Window）
+## 1. 固定长度滑动窗口（Fixed-size Sliding Window）
 **特点：**
 - 窗口大小 k 是固定的
 - 每次窗口向右移动一格
@@ -25,7 +25,7 @@
 
 就像窗口每次只看 3 条内容，滑一下换一个人进来，一个人滑出去 —— 窗口大小始终固定
 
-### 2. 可变长度滑动窗口（Variable-size Sliding Window）
+## 2. 可变长度滑动窗口（Variable-size Sliding Window）
 **特点：**
 - 窗口大小不固定，依据条件动态扩展或收缩
 - 常用于处理满足某种条件的最短/最长子数组、子串
@@ -47,7 +47,7 @@
 
 我们就像在找一段最长的“干净登录记录”窗口，没有重复设备号
 
-### 3. 双端滑动窗口（Two-end or Deque-based Sliding Window）
+## 3. 双端滑动窗口（Two-end or Deque-based Sliding Window）
 **特点：**
 - 使用 **双端队列（deque）** 来维护窗口内的最大值、最小值等信息
 - 保持窗口内元素的某种“单调性”（比如递减）

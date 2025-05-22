@@ -28,6 +28,14 @@ export default defineConfig({
           { text: '什么是算法？', link: '/' },
         ]
       },
+       {
+        text: 'Basic',
+        collapsed: true,
+        items: [
+          { text: '基础题目', link: '/basic/index.md' },
+        ]
+      },
+      
       {
         text: 'Sliding Window',
         collapsed: true,

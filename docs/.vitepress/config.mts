@@ -44,9 +44,10 @@ export default defineConfig({
       
         ]
       },
-  
+
+
       {
-        text: '链表',
+        text: 'Link List',
         collapsed: true,
         items: [
           { text: '什么是链表？', link: '/linked-list/index.md' },

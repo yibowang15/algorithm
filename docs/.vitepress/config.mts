@@ -64,7 +64,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/honkinglin/algorithm' }
+      { icon: 'github', link: 'https://github.com/yibowang15/algorithm' }
     ]
   }
 })

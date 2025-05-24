@@ -34,6 +34,7 @@ export default defineConfig({
         items: [
           { text: '基础题目', link: '/basic/index.md' },
           { text: '2235：两数之和（two sum）', link: '/basic/2235.md' }
+          {text:'2469: 温度运算', link: '/basic/2469.md'}
         ]
       },
       

@@ -37,7 +37,7 @@ export default defineConfig({
           {text:'2469: 温度运算', link: '/basic/2469.md'},
           {text:'2236:根节点值运算', link:'/basic/2236.md'},
           {text:'1512:对的对数', link:'/basic/1512.md'},
-          {text:'1534:对的对数', link:'/basic/1534.md'}
+          {text:'1534:好三元', link:'/basic/1534.md'}
 
         ]
       },

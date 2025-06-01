@@ -38,7 +38,8 @@ export default defineConfig({
           {text:'2236:根节点值运算', link:'/basic/2236.md'},
           {text:'1512:对的对数', link:'/basic/1512.md'},
           {text:'1534:好三元', link:'/basic/1534.md'},
-          {text:'258:各个位数相加', link:'/basic/258.md'}
+          {text:'258:各个位数相加', link:'/basic/258.md'},
+          {text:'1281:整数的积和差', link:'/basic/1281.md'}
 
         ]
       },

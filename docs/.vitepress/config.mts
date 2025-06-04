@@ -41,7 +41,8 @@ export default defineConfig({
           {text:'258:各个位数相加', link:'/basic/258.md'},
           {text:'1281:整数的积和差', link:'/basic/1281.md'},
           {text:'231:2的幂', link:'/basic/231.md'},
-          {text:'1470:重新排列数组', link:'/basic/1470.md'}
+          {text:'1470:重新排列数组', link:'/basic/1470.md'},
+          {text:'867:反转matrix', link:'/basic/867.md'}
 
         ]
       },

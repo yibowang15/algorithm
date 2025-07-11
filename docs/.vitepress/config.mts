@@ -52,6 +52,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '什么是滑动窗口？', link: '/sliding-window/index.md' },
+          {text:'1456: 原音最大数值', link: '/sliding-window/1456.md'},
         ]
       },
       

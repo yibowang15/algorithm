@@ -54,7 +54,8 @@ export default defineConfig({
           { text: '什么是滑动窗口？', link: '/sliding-window/index.md' },
           {text:'1456: 原音最大数值', link: '/sliding-window/1456.md'},
           {text:'643: 子数组最大平均数1', link: '/sliding-window/643.md'},
-          {text:'1343: 大小为k且平均值大于threshold', link: '/sliding-window/1343.md'}
+          {text:'1343: 大小为k且平均值大于threshold', link: '/sliding-window/1343.md'},
+          {text:'2090: 半径为 k 的子数组平均值', link: '/sliding-window/2090.md'},
         ]
       },
       

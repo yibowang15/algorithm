@@ -57,7 +57,9 @@ export default defineConfig({
           {text:'1343: 大小为k且平均值大于threshold', link: '/sliding-window/1343.md'},
           {text:'2090: 半径为 k 的子数组平均值', link: '/sliding-window/2090.md'},
           {text:'2841: 几乎唯一子数组的最大和', link: '/sliding-window/2841.md'},
-          {text:'2379: 得到 K 个黑块的最少涂色次数', link: '/sliding-window/2379.md'}
+          {text:'2379: 得到 K 个黑块的最少涂色次数', link: '/sliding-window/2379.md'},
+{text:'1423: 可获得的最大点数', link: '/sliding-window/1423.md'},
+{text:'2461: 长度为 K 子数组中的最大和', link: '/sliding-window/2461.md'}
         ]
       },
       
